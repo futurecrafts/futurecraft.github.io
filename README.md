@@ -1,2 +1,2 @@
-# futurecraft.github.io
+# futurecrafts.github.io
 This is direct website to Github
